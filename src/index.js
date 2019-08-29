@@ -7,3 +7,5 @@
 // let img=new Image();
 // img.src=logo;
 // document.body.appendChild(img);
+console.log("PRODUCTION:" + PRODUCTION);
+console.log("VERSION:" + VERSION);
