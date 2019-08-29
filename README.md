@@ -11,4 +11,4 @@ Webpack+ECMAScript6+React+Redux
 + npm run dev
 
 ### 构建流程
-+ [***实践webpack+es6+react+redux构建项目(一) webpack配置***]()
++ [***实践webpack+es6+react+redux构建项目(一) webpack配置1***](https://rocmac.github.io/2019/08/28/webpack-configurations/)
