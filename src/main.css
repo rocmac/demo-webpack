@@ -1,0 +1,6 @@
+.logo{
+    width:355px;
+    height:133px;
+    background-image: url(./images/logo.png);
+    background-size: cover;
+}
