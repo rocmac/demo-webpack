@@ -5,8 +5,8 @@ Webpack+ECMAScript6+React+Redux
 搭建了一个webpack的项目，使用到了一些插件，具体见文档
 
 ### 安装启动
-+ git clone 
-+ cd 
++ git clone https://github.com/rocmac/demo-webpack.git
++ cd demo-webpack
 + npm install
 + npm run dev
 
